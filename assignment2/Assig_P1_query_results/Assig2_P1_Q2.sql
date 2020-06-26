@@ -1,0 +1,6 @@
+"fname";"lname";"ssn"
+"Joyce";"English";"453453453"
+"Alicia";"Zelaya";"999887777"
+"Jennifer";"Wallace";"987654321"
+"John";"Smith";"123456789"
+"Ahmad";"Jabbar";"987987987"
